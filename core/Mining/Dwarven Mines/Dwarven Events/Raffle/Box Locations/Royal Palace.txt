@@ -1,3 +1,1 @@
-1: x 129 | y 197 | z 167 | First
-
-royal_raffle_box_1: x 129 | y 197 | z 167 | First
+royal_raffle_box_1: x 129 | y 197 | z 167 | Raffle Box

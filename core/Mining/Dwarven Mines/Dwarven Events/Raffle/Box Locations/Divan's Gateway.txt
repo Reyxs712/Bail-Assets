@@ -1,3 +1,1 @@
-1: x 0 | y 130 | z 96 | First
-
-divan_raffle_box_1: x 0 | y 130 | z 96 | First
+divan_raffle_box_1: x 0 | y 130 | z 96 | Raffle Box

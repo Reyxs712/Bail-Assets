@@ -1,11 +1,5 @@
-1: x -81 | y 187 | z -70 | First
+gourmandupper_1: x -81 | y 187 | z -70 | First
 
-2: x -86 | y 202 | z -75 | Second
+gourmandupper_2: x -86 | y 202 | z -75 | Second
 
-3: x | y | z | Third
-
-upper_1: x -81 | y 187 | z -70 | First
-
-upper_2: x -86 | y 202 | z -75 | Second
-
-upper_3: x | y | z | Third
+gourmandupper_3: x | y | z | Third

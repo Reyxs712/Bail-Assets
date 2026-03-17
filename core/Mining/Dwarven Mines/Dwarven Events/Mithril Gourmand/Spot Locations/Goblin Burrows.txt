@@ -1,11 +1,5 @@
-1: x -70 | y 139 | z 142 | First
+gourmandgoblin_1: x -70 | y 139 | z 142 | First
 
-2: x -126 | y 147 | z 153 | Second
+gourmandgoblin_2: x -126 | y 147 | z 153 | Second
 
-3: x -166 | y 156 | z 108 | Third
-
-goblin_1: x -70 | y 139 | z 142 | First
-
-goblin_2: x -126 | y 147 | z 153 | Second
-
-goblin_3: x -166 | y 156 | z 108 | Third
+gourmandgoblin_3: x -166 | y 156 | z 108 | Third

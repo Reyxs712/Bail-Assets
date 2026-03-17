@@ -1,3 +1,1 @@
-1: x 5 | y 200 | z -110 | Old Man Gary
-
 old_man_gary: x 5 | y 200 | z -110 | Old Man Gary

@@ -1,11 +1,5 @@
-1: x -118 | y 148 | z 102 | First
+gourmandfar_1: x -118 | y 148 | z 102 | First
 
-2: x -133 | y 159 | z 51 | Second
+gourmandfar_2: x -133 | y 159 | z 51 | Second
 
-3: x -153 | y 150 | z 55 | Third
-
-far_1: x -118 | y 148 | z 102 | First
-
-far_2: x -133 | y 159 | z 51 | Second
-
-far_3: x -153 | y 150 | z 55 | Third
+gourmandfar_3: x -153 | y 150 | z 55 | Third

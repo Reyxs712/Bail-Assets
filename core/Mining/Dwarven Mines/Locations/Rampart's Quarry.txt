@@ -1,0 +1,1 @@
+locationrampartsquarry: minX -28 | minY 130 | minZ 38 | maxX -125 | maxY 253 | maxZ -64

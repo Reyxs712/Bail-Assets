@@ -1,0 +1,3 @@
+locationcliffsideveins: minX 24 | minY 125 | minZ -6 | maxX 98 | maxY 243 | maxZ 54
+
+locationcliffsideveins2: minX 24 | minY 125 | minZ 25 | maxX -28 | maxY 243 | maxZ 63

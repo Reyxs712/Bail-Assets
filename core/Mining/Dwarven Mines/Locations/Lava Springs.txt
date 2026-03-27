@@ -1,0 +1,1 @@
+locationlavasprings: minX 83 | minY 193 | minZ -38 | maxX 30 | maxY 240 | maxZ 19

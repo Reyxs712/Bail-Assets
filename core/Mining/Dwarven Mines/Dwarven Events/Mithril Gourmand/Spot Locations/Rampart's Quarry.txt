@@ -1,7 +1,7 @@
-gourmandramparts_1: x -56 | y 147 | z -17 | First
+gourmandramparts_1: x -56 | y 146 | z -17 | First
 
-gourmandramparts_2: x -113 | y 152 | z -27 | Second
+gourmandramparts_2: x -114 | y 150 | z -25 | Second
 
 gourmandramparts_3: x -45 | y 222 | z 20 | Third
 
-gourmandramparts_4: x -112 | y 206 | z -64 | Fourth
+gourmandramparts_4: x -113 | y 205 | z -65 | Fourth

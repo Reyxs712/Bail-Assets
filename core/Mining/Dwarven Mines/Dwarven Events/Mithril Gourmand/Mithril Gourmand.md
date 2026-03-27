@@ -4,9 +4,11 @@ Click here to teleport to Garry and prepare!
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 MITHRIL GOURMAND STARTED!
 Mining Event
+
 Don Expresso wants some Tasty Mithril from the Goblin
 Burrows. Bring 200 Tasty Mithril to him at the Dwarven Village!
 Bring 10 personally and you'll receive extra rewards.
+
 Go to [Goblin Burrows] (or talk to Garry)
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
